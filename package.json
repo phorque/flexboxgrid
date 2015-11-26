@@ -1,7 +1,7 @@
 {
-  "name": "flexboxgrid",
+  "name": "flexboxgrid-with-hide",
   "version": "6.3.0",
-  "description": "Grid based off of CSS3 flexbox specification",
+  "description": "A fork of flexboxgrid that adds classes to responsively hide content.",
   "style": "dist/flexboxgrid.css",
   "main": "dist/flexboxgrid.css",
   "scripts": {
@@ -9,20 +9,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kristoferjoseph/flexboxgrid.git"
+    "url": "git://github.com/derflatulator/flexboxgrid.git"
   },
   "keywords": [
     "browser",
     "flexbox",
     "grid",
-    "css"
+    "css",
+    "hide",
+    "show",
+    "responsive"
   ],
-  "author": "@dam",
+  "author": "Lucas Azzola",
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/kristoferjoseph/flexboxgrid/issues"
+    "url": "https://github.com/derflatulator/flexboxgrid/issues"
   },
-  "homepage": "https://github.com/kristoferjoseph/flexboxgrid",
+  "homepage": "https://github.com/derflatulator/flexboxgrid",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^0.7.2",
