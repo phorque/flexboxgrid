@@ -1,3 +1,12 @@
+Flexbox Grid with conditional hiding
+====================================
+
+This is a simple fork of Flexbox Grid that adds the ability to conditionally hide content.
+
+See [the docs](http://derflatulator.github.io/flexboxgrid/#hiding) for usage info.
+
+*Original README follows:*
+
 Flexbox Grid
 ===========
 

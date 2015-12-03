@@ -1,17 +1,21 @@
 {
-  "name": "flexboxgrid",
+  "name": "flexboxgrid-with-hide",
   "version": "6.2.0",
-  "homepage": "https://github.com/kristoferjoseph/flexboxgrid",
+  "homepage": "https://github.com/derflatulator/flexboxgrid",
   "authors": [
-    "@dam"
+    "@dam",
+    "Lucas Azzola"
   ],
-  "description": "Grid based on the flex display property.",
+  "description": "A fork of flexbox grid that adds classes to responsively hide content.",
   "main": "dist/flexboxgrid.css",
   "keywords": [
     "browser",
     "flexbox",
     "grid",
-    "css"
+    "css",
+    "hide",
+    "show",
+    "responsive"
   ],
   "license": "Apache 2",
   "ignore": [
